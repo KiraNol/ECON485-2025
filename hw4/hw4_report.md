@@ -1,7 +1,7 @@
 # ECON485 Homework 4: NoSQL Concepts and Applications
 
-**Student:** [İsmin Buraya Yaz]  
-**Student ID:** [Öğrenci Numarası Yaz]  
+**Student:** Elif Işıl Çiçek  
+**Student ID:** 23232810007
 **Date:** December 2025  
 **Course:** ECON485 Database Systems
 
